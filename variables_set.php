@@ -15,9 +15,3 @@ echo "done";
 
 
 Test ticket 910
-
-<<<<<<< HEAD
- 
-
-=======
->>>>>>> parent of 82b3a11... Merge branch '910' into stage
