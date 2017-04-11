@@ -7,6 +7,13 @@ db_query("UPDATE users SET NAME = 'admin', pass = MD5('admin123') WHERE uid = 1"
 
 echo "done";
 
+
 911 911 test again
 
 911 testing
+
+
+Test ticket 910 910 
+
+ 
+
