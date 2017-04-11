@@ -12,3 +12,5 @@ echo "done";
 
 Test ticket 910
 
+912 testing
+
